@@ -52,12 +52,12 @@
         <repository>
         <id>release-repo</id>
         <name>location where released artifacts are stored</name>
-        <url>D:\Programming\releaseDirectory</url>
+        <url>file:\\D:\Programming\releaseDirectory</url>
     </repository>
         <snapshotRepository>
             <id>snapshot-repository</id>
             <name>Location were snapshot / development releases are stored</name>
-            <url>D:\Programming\snapshotDirectory</url>
+            <url>file:\\D:\Programming\snapshotDirectory</url>
         </snapshotRepository>
     </distributionManagement>
 
