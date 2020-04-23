@@ -35,7 +35,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/PeterSmaal/MavenTagTest.git</connection>
-        <tag>v1.0.0.1</tag>
+        <tag>Java-1.0.0.1</tag>
     </scm>
 
     <build>
